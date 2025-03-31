@@ -1,5 +1,15 @@
 ## Hi there 👋
-
+Currently I'm studying at Augusta University as an undergraduate for a Bachelor's in Computer Science. Despite learning a few languages and applications I still have a lot learn about them and seek to create more by using them to expand my knowledge. While I am majoring in computer science, I have also been interested in 3D modeling and have spent some time in Blender.
+### What I'm Currently Learning About
+- Javascript and CSS
+- Operating System basics
+- ASP.NET
+- R Studio
+### What I've Previously Learned 
+- C#
+- Assembly
+- MySQL
+- Python
 <!--
 **xwhitewalter/xwhitewalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
